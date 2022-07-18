@@ -40,7 +40,7 @@ class NewProductPage extends StatelessWidget {
               child: ElevatedButton(
                 onPressed: () {},
                 child: const Text(
-                  'Cadastro',
+                  'Cadastros',
                 ),
               ),
             )
